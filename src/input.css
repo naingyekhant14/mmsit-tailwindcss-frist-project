@@ -11,5 +11,12 @@
     .header_font{
         @apply  mr-5 font-[500px] font-poppins text-[16px] cursor-pointer
     }
+    .section_container{
+        @apply max-w-7xl
+    }
+    .cart_img{
+        @apply inline-block 
+    }
+    
    
 }
